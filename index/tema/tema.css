@@ -1,0 +1,34 @@
+
+
+
+  .boton_personalizado{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 300;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 6px;
+	margin-top: 10px;
+    border: 2px solid #0016b0;
+  }
+
+.caja {
+font-family: sans-serif;
+font-size: 18px;
+font-weight: 350;
+color: #ffffff;
+background: #889ccf;
+margin: 10 20 25px;
+overflow: hidden;
+padding: 15px;
+}
+
+
+.texto-titulo {
+	
+font-family: sans-serif;
+font-size: 15px;	
+	
+	
+}
